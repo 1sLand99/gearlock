@@ -1,4 +1,4 @@
-# Introduction  [![GearLock](https://img.shields.io/badge/GearLock-7.3.15-blue.svg)](https://github.com/AXIM0S/gearlock) [![CI](https://github.com/AXIM0S/gearlock/workflows/CI/badge.svg)](https://github.com/AXIM0S/gearlock/actions) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![](https://tokei.rs/b1/github/axonasif/gearlock?category=lines)](https://github.com/axonasif/gearlock)
+# Introduction  [![GearLock](https://img.shields.io/badge/GearLock-7.3.16-blue.svg)](https://github.com/AXIM0S/gearlock) [![CI](https://github.com/AXIM0S/gearlock/workflows/CI/badge.svg)](https://github.com/AXIM0S/gearlock/actions) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![](https://tokei.rs/b1/github/axonasif/gearlock?category=lines)](https://github.com/axonasif/gearlock)
 
 GearLock is a dynamically written bash program focused in performance with the intension of making modifications in android-x86 easier.
 
@@ -187,7 +187,7 @@ I will need a lot of free time to accomplish this since I'm a student, but you c
 * GearLock core-pkg: https://github.com/AXIM0S/gearlock-core-pkg
 * GearLock mesa-pkg: https://github.com/AXIM0S/gearlock-mesa-pkg
 * GearLock kernel-pkg: https://github.com/AXIM0S/gearlock-kernel-pkg
-* GearLock dev-doc: https://wiki.supreme-gamers.com/gearlock/developer-guide
+* GearLock dev-doc: https://wiki.aopc.dev/gearlock/developer-guide
 
 
 
